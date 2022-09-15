@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Scene.unity
+    guid: 3e776a40c598d29498b9d27b9ee0f890
+  - enabled: 1
+    path: Assets/Scenes/Levels/5 (Doll).unity
+    guid: f84592c4cc0cf524ca01b3e2cb24723a
+  - enabled: 1
+    path: Assets/Scenes/Snipe/1 (Sniper).unity
+    guid: 47cc69b2d57884546a356eb6e56793b9
+  - enabled: 1
+    path: Assets/Scenes/Tug of war/1 (TOW).unity
+    guid: c34b762fe3f9fb24bb811c915a862abe
+  m_configObjects: {}
